@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 프로젝트 소개
 ### 프로젝트 기간 : 2023.03.06 ~ 2023.03.27 
 ---
@@ -173,3 +174,6 @@ src="https://user-images.githubusercontent.com/121347506/229693783-22b5be1c-c88a
 
 
 
+=======
+# idolCalendar
+>>>>>>> c146756743d1f191073c2b70944489f6cc443ce1
